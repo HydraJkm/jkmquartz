@@ -1,0 +1,3 @@
+[submodule "ma-sin"]
+	path = ma-sin
+	url = https://github.com/hydrajkm/ma-sin
