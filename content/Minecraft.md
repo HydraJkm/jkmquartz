@@ -1,0 +1,2 @@
+#gamepages
+Minecraft is a game initially created by a person named Notch, before being acquired by Mojang, and now Microsoft. It currently has had 21 updates (including its release), and is the best selling game of all time.
