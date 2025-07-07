@@ -1,4 +1,4 @@
-#myconlangs
+#conlangs
 If you just want to learn the words, without any philosophy, view the [[Language of Items Dictionary]]
 
 This is a new conlang I'm making. It is based off of the idea of speach purely from holding [[Minecraft]] items in your hands.
